@@ -1,8 +1,0 @@
-python -m venv venv
-source venv/bin/activate
-pip install flask pandas xgboost scikit-learn pyngrok
-
-TO RUN IN TERMINAL - python Predictor.py /home/divya27/Downloads/HKDRF_2025.pdf
-TO RUN THROUGH API - python Predictor.py api
-
-curl -X POST -F "file=@/home/divya27/Downloads/HKDRF_2025.pdf" http://127.0.0.1:5000/predict
