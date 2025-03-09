@@ -6,6 +6,11 @@
 4.  *Run *Sensitivity_Predictor.py* and input file path to check sensitivity and confidence score of file.*
 5.  *Enter '*q*' if you want to end Predictions.*
 
+## How To Run Through Terminal and API
+
+1. Clone the terminal_and_api directory to your code editor(VS Code etc.).
+2. Read its Readme.md and run the given command in Terminal.
+
 ## 📊 Model Training & Evaluation
 
 1. *Dataset Preparation:*
