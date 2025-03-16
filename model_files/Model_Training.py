@@ -6,7 +6,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from xgboost import XGBClassifier
 from sklearn.metrics import classification_report, precision_recall_curve
 import joblib
-import shap
+# import shap
 
 def train_model():
     df = pd.read_csv("file_metadata.csv", parse_dates=['created', 'modified'])
