@@ -1,7 +1,0 @@
-python -m venv venv
-source venv/bin/activate
-pip install requirements.txt
-
-python app.py                                        - TO RUN THROUGH API
-
-deactivate - TO DEACTIVATE VIRTUAL ENVIORNMENT
