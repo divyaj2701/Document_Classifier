@@ -17,4 +17,4 @@
   ### website and API link: 
   https://document-classifier-hpge.onrender.com
 
-# see all the README.md files specified in folders for further detail
+# go through all the README.md files specified in folders for further detail
